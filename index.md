@@ -6,7 +6,9 @@ AIware aims to bring the software engineering community together in anticipation
 
 [AIware 2024](https://2024.aiwareconf.org), Porto de Galinhas, Brazil <br />
 
-### [AIware Steering Committee](https://2024.aiwareconf.org/committee/aiware-2024-steering-committee)
+### AIware Steering Committee
+
+For the latest members of the AIware Steering Committee please see [here](https://2024.aiwareconf.org/committee/aiware-2024-steering-committee).
 
 ### Past events
 
