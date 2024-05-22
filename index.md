@@ -12,7 +12,7 @@ For the latest members of the AIware Steering Committee please see [here](https:
 
 ### Past events
 
-[FM+SE Vision 2030](https://fmse.io/), Mexico City, Mexico <br />
+[FM+SE Vision 2030](https://fmse.io/), Mexico City, Mexico (summary report available [https://sail.cs.queensu.ca/data/pdfs/2024_FMSE_Vision_2030_Summary_Report__Challenges_and_Opportunities_in_the_Road_Ahead.pdf](here)) <br />
 
 ### Vision
 
