@@ -4,6 +4,7 @@ AIware aims to bring the software engineering community together in anticipation
 
 ### Upcoming conferences
 
+AIware 2025, Seoul, South Korea (November, co-located with ASE) <br />
 [AIware 2024](https://2024.aiwareconf.org), Porto de Galinhas, Brazil <br />
 
 ### AIware Steering Committee
