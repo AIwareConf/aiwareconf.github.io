@@ -2,10 +2,10 @@ Welcome to the International Conference on AIware!
 
 AIware aims to bring the software engineering community together in anticipation of the upcoming changes driven by FMs and look at them from the perspective of AI-powered software and their evolution.
 
-### Upcoming conferences
+### Upcoming events
 
-[AIware 2025](https://conf.researchr.org/home/aiware-2025), Seoul, South Korea (November, co-located with ASE) <br />
-[AIware 2024](https://2024.aiwareconf.org), Porto de Galinhas, Brazil <br />
+[AIware 2025](https://2025.aiwareconf.org/), Seoul, South Korea (November 19-20, 2025, co-located with ASE) <br />
+[AIware Bootcamp Mini 2025](https://www.aiwarebootcamp.io/mini.html), Ottawa, Ontario, Canada (May 3-4, 2025, co-located with ICSE)<br />
 
 ### AIware Steering Committee
 
@@ -13,7 +13,10 @@ For the latest members of the AIware Steering Committee please see [here](https:
 
 ### Past events
 
-[FM+SE Vision 2030](https://fmse.io/), Mexico City, Mexico (**summary report** available [here](https://sail.cs.queensu.ca/data/pdfs/2024_FMSE_Vision_2030_Summary_Report__Challenges_and_Opportunities_in_the_Road_Ahead.pdf)) <br />
+[AIware Leadership Bootcamp 2024](https://www.aiwarebootcamp.io), Toronto, Ontario, Canada (November 3-8, 2024)<br />
+[AIware 2024](https://2024.aiwareconf.org), Porto de Galinhas, Brazil (July 15-16, 2024, co-located with FSE)<br />
+[FM+SE Summit 2024](https://fmse.io), Tokyo, Japan (March 28-29, 2024) <br />
+[FM+SE Vision 2030](https://fmse.io/vision/index.html), Mexico City, Mexico (**summary report** available [here](https://sail.cs.queensu.ca/data/pdfs/2024_FMSE_Vision_2030_Summary_Report__Challenges_and_Opportunities_in_the_Road_Ahead.pdf)) (November 16-19, 2023) <br />
 
 ### Vision
 
