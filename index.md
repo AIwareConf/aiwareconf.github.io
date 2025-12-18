@@ -4,15 +4,16 @@ AIware aims to bring the software engineering community together in anticipation
 
 ### Upcoming events
 
-[AIware 2025](https://2025.aiwareconf.org/), Seoul, South Korea (November 19-20, 2025, co-located with ASE) <br />
-[AIware Bootcamp Mini 2025](https://www.aiwarebootcamp.io/mini.html), Ottawa, Ontario, Canada (May 3-4, 2025, co-located with ICSE)<br />
+[AIware 2026](https://conf.researchr.org/home/aiware-2026), Montreal, Canada (July 5-6, 2026, co-located with FSE) <br />
 
 ### AIware Steering Committee
 
-For the latest members of the AIware Steering Committee please see [here](https://2024.aiwareconf.org/committee/aiware-2024-steering-committee).
+For the latest members of the AIware Steering Committee, please see [here](https://conf.researchr.org/committee/aiware-2026/aiware-2026-steering-committee).
 
 ### Past events
 
+[AIware 2025](https://2025.aiwareconf.org/), Seoul, South Korea (November 19-20, 2025, co-located with ASE) <br />
+[AIware Bootcamp Mini 2025](https://www.aiwarebootcamp.io/mini.html), Ottawa, Ontario, Canada (May 3-4, 2025, co-located with ICSE)<br />
 [AIware Leadership Bootcamp 2024](https://www.aiwarebootcamp.io), Toronto, Ontario, Canada (November 3-8, 2024)<br />
 [AIware 2024](https://2024.aiwareconf.org), Porto de Galinhas, Brazil (July 15-16, 2024, co-located with FSE)<br />
 [FM+SE Summit 2024](https://fmse.io), Tokyo, Japan (March 28-29, 2024) <br />
