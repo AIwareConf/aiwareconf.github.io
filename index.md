@@ -4,7 +4,7 @@ AIware aims to bring the software engineering community together in anticipation
 
 ### Upcoming events
 
-[AIware 2026](https://conf.researchr.org/home/aiware-2026), Montreal, Canada (July 5-6, 2026, co-located with FSE) <br />
+[AIware 2026](https://conf.researchr.org/home/aiware-2026), Montreal, Canada (July (exact dates TBD), 2026, co-located with FSE) <br />
 
 ### AIware Steering Committee
 
