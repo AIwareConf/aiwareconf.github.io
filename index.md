@@ -4,7 +4,7 @@ AIware aims to bring the software engineering community together in anticipation
 
 ### Upcoming events
 
-[AIware 2026](https://2026.aiwareconf.org/), Montreal, Canada (July 6-7, 2026, co-located with FSE) <br />
+[AIware 2027](https://2027.aiwareconf.org/), Shenzhen, China (Tue 13 - Wed 14 July 2027, co-located with FSE) <br />
 
 ### AIware Steering Committee
 
@@ -12,6 +12,7 @@ For the latest members of the AIware Steering Committee, please see [here](https
 
 ### Past events
 
+[AIware 2026](https://2026.aiwareconf.org/), Montreal, Canada (July 6-7, 2026, co-located with FSE) <br />
 [AIware 2025](https://2025.aiwareconf.org/), Seoul, South Korea (November 19-20, 2025, co-located with ASE) <br />
 [AIware Bootcamp Mini 2025](https://www.aiwarebootcamp.io/aiware-bootcamp-mini-2025), Ottawa, Ontario, Canada (May 3-4, 2025, co-located with ICSE)<br />
 [AIware Leadership Bootcamp 2024](https://www.aiwarebootcamp.io), Toronto, Ontario, Canada (November 3-8, 2024)<br />
